@@ -1,0 +1,25 @@
+#comp1 {
+    position: relative;
+    top: 250px;
+    left: 150px;
+    background-color: aqua;
+    height: 200px;
+    width: 400px;
+    color: black;
+    border: 3px solid black;
+    border-radius: 25px;
+    visibility: hidden;
+}
+
+#bt1 {
+    position: relative;
+    right: 200px;
+    bottom: 145px;
+    height: 70px;
+    width: 350px;
+    background-color: aquamarine;
+    border: 3px solid black;
+    border-radius: 30px;
+    font-size: 16px;
+    
+}
